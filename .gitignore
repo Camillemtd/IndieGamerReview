@@ -1,0 +1,7 @@
+node_modules
+/.next
+/scripts/strapi-response.json
+
+.env.local
+
+/prisma/*.db
